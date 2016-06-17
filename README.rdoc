@@ -5,9 +5,14 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version :
 
-* System dependencies
+2.2.0 with rvm
+rvm install rails
+
+* System dependencies :
+
+run : bunddle install
 
 * Configuration
 
@@ -17,9 +22,7 @@ Things you may want to cover:
 
 * How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Deployment instructions : 
 
 * ...
 
